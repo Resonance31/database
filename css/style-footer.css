@@ -1,0 +1,12 @@
+footer {
+    width: 98%;
+    float: left;
+    padding: 1%;
+    background-color: #fafafa;
+    border-top: 2px solid silver;
+    margin-top: 72px;
+}
+
+h2 {
+    margin-bottom: 15px;
+}
